@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(177, 225, 253);
+}
+footer{
+    text-align: center;
+    font-family: cursive;
+    background: rgb(118, 169, 227);
+    padding: 4px;
+}
